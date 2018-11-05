@@ -17,15 +17,17 @@
 				"ru":"Все",
 				"ro":"Toate",
 				"th":"ทั้งหมด",
-				"tr":"Tümü"
+				"tr":"Tümü",
+				"br": "Todos"
 			}
 		},
 		"1":{
 			"n":"New",
 			"nt":{
 				"de":"Neu",
-				"it":"Nuovo"
-				"es":"Nuevo"
+				"it":"Nuovo",
+				"es":"Nuevo",
+				"br":"Novo"
 			}
 		},
 		"2":{
@@ -60,8 +62,9 @@
 			"n":"Terrestrial",
 			"nt":{
 				"de":"Land",
-				"it":"Terrestre"
-				"es":"Terrestre"
+				"it":"Terrestre",
+				"es":"Terrestre",
+				"br":"Terrestre"
 			},
 			"p":3
 		},
@@ -70,7 +73,9 @@
 			"nt":{
 				"de":"Luft",
 				"it":"Aereo"
-				"es":"Aéreo"
+				"es":"Aéreo",
+				"br":"Aéreo"
+				
 			},
 			"p":3
 		},
@@ -80,6 +85,7 @@
 				"de":"Wasser",
 				"it":"Acquatico"
 				"es":"Acuático"
+				"br":"Aquático"
 			},
 			"p":3
 		},
@@ -89,6 +95,7 @@
 				"de":"Reitbar",
 				"it":"Cavalcabile"
 				"es":"Manejable"
+				"br":"Montável"
 			},
 			"p":4
 		},
@@ -98,6 +105,7 @@
 				"de":"Nutzsattel",
 				"it":"Sella utilità"
 				"es":"Montura utilitaria"
+				"br":"Sela Utilitária"
 			},
 			"p":4
 		},
@@ -107,6 +115,7 @@
 				"de":"Plattformsattel",
 				"it":"Sella piattaforma"
 				"es":"Montura plataforma"
+				"br":"Sela Plataforma"
 			},
 			"p":4
 		},
@@ -116,6 +125,7 @@
 				"de":"Multi-Passagier",
 				"it":"Multi passeggero"
 				"es":"Multi pasajero"
+				"br":"Multi Passageiro"
 			},
 			"p":4
 		},
@@ -125,6 +135,7 @@
 				"de":"Tek Sattel",
 				"it":"Sella Tek"
 				"es":"Montura Tek"
+				"br":"Sela Tek"
 			},
 			"p":4
 		},
@@ -134,6 +145,7 @@
 				"de":"Schulteraufsitzer",
 				"it":"Supporto spalla"
 				"es":"Monta a hombros"
+				"br":"Carregável no ombro"
 			},
 			"p":4
 		},
@@ -143,6 +155,7 @@
 				"de":"Zähmbar",
 				"it":"Addomesticabile"
 				"es":"Domesticable"
+				"br":"Domável"
 			},
 			"p":5
 		},
@@ -152,6 +165,7 @@
 				"de":"Unzähmbar",
 				"it":"Non domabile"
 				"es":"No domesticable"
+				"br":"Não Domável"
 			},
 			"p":5
 		},
@@ -161,6 +175,7 @@
 				"de":"Beteubungs-Zähmen",
 				"it":"Domazione con incoscio"
 				"es":"Doma inconsciente"
+				"br":"Domável Inconsciente"
 			},
 			"p":5
 		},
@@ -170,6 +185,7 @@
 				"de":"Passives Zähmen",
 				"it":"Domazione passiva"
 				"es":"Doma pasiva"
+				"br":"Domável Passivamente"
 			},
 			"p":5
 		},
@@ -179,6 +195,7 @@
 				"de":"Schnell & Einfaches Zähmen",
 				"it":"Domazione facile e veloce"
 				"es":"Doma rápida y fácil"
+				"br":"Doma rápido e fácil"
 			},
 			"p":5
 		},
@@ -188,6 +205,7 @@
 				"de":"Fleischfresser",
 				"it":"Carnivori"
 				"es":"Carnívoros"
+				"br":"Carnívoros"
 			},
 			"p":6
 		},
@@ -197,6 +215,7 @@
 				"de":"Pflanzenfresser",
 				"it":"Erbivori"
 				"es":"Herbívoros"
+				"br":"Herbívoros"
 			},
 			"p":6
 		},
@@ -206,6 +225,7 @@
 				"de":"Allesfresser",
 				"it":"Onnivori"
 				"es":"Omnívoros"
+				"br":"Onívoros"
 			},
 			"p":6
 		},
@@ -215,6 +235,7 @@
 				"de":"Fischfresser",
 				"it":"Piscivori"
 				"es":"Piscívoros"
+				"br":"Piscívoros"
 			},
 			"p":6
 		},
@@ -224,6 +245,7 @@
 				"de":"Kampfkreaturen",
 				"it":"Creature da combattimento"
 				"es":"Criaturas de combate"
+				"br":"Criaturas de batalha"
 			},
 			"p":7
 		},
@@ -233,6 +255,7 @@
 				"de":"Sammler",
 				"it":"Raccoglitori"
 				"es":"Recolectores"
+				"br":"Colhetores"
 			},
 			"p":7
 		},
@@ -242,6 +265,7 @@
 				"de":"Packesel",
 				"it":"Trasportatori"
 				"es":"Mulas de carga"
+				"br":"Mulas de carga"
 			},
 			"p":7
 		},
@@ -251,6 +275,7 @@
 				"de":"Schnelle Kreaturen",
 				"it":"Creature veloci"
 				"es":"Criaturas rápidas"
+				"br":"Criaturas rápidas"
 			},
 			"p":7
 		},
@@ -260,6 +285,7 @@
 				"de":"Züchtbar",
 				"it":"Allevabile"
 				"es":"Reproducible"
+				"br":"Reproduzível"
 			},
 			"p":8
 		},
@@ -269,6 +295,7 @@
 				"de":"Spielanfang",
 				"it":"Inizio partita"
 				"es":"Inicio de partida"
+				"br":"Início de jogo"
 			},
 			"p":8
 		},
@@ -278,6 +305,7 @@
 				"de":"Spielmitte",
 				"it":"Metà partita"
 				"es":"Mitad de partida"
+				"br":"Meio de jogo"
 			},
 			"p":8
 		},
@@ -287,6 +315,7 @@
 				"de":"Spielende",
 				"it":"Fine partita"
 				"es":"Final de partida"
+				"br":"Final de jogo"
 			},
 			"p":8
 		},
@@ -296,6 +325,7 @@
 				"de":"Bosse",
 				"it":"Boss"
 				"es":"Jefes"
+				"br":"Chefes"
 			},
 			"p":8
 		},
@@ -312,6 +342,7 @@
 				"de":"Karte",
 				"it":"Mappa"
 				"es":"Mapa"
+				"br":"Mapa"
 			}
 		},
 		"2":{
@@ -320,6 +351,7 @@
 				"de":"Inklusive Erweiterungen",
 				"it":"Pacco d'espansione esclusivo"
 				"es":"Paquete de expansión exclusivo"
+				"br":"Exclusivo do pacote de expansão"
 			}
 		},
 		"3":{
@@ -327,6 +359,7 @@
 			"nt":{
 				"de":"Lebensraum"
 				"es":"Hábitat"
+				"br":"Habitat"
 			}
 		},
 		"4":{
@@ -335,6 +368,7 @@
 				"de":"Reitbarkeit",
 				"it":"Guidabilità"
 				"es":"Manejo"
+				"br":"Montabilidade"
 			}
 		},
 		"5":{
@@ -363,6 +397,7 @@
 				"de":"Diät",
 				"it":"Dieta"
 				"es":"Dieta"
+				"br":"Dieta"
 			}
 		},
 		"7":{
